@@ -1,3 +1,5 @@
+-- Arpith G Naik
+
 -- Write a file called delete1.sql that contains a SQL statement to delete the subject 'History'.
 -- The subject must be removed from the tables and from all the books. You will need two queries for this. 
 -- First to delete all the history mappings in the books_subjects table. Then to delete the subject itself. 
